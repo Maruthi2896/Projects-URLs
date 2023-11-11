@@ -1,6 +1,3 @@
-Portfolio website:
-https://maruthi-kj-portfolio.netlify.app/
-
 Trima E-commerse website
 https://trima-onlineshop.netlify.app/
 
@@ -13,6 +10,11 @@ https://bulkmailer-capstone.netlify.app/
 CRUD implementation Project deployed LINK
 https://maruthu-kj-crud-application.netlify.app/
 
-
 school management Project Deployed LINK
 https://school-management-dashboard28.netlify.app/
+
+Resume Link :
+https://drive.google.com/file/d/18wBYR5Ir4kRwrxmGldHE49wei1GthJ3D/view?usp=sharing
+
+Portfolio website:
+https://maruthi-kj-portfolio.netlify.app/
