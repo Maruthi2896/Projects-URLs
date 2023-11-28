@@ -21,3 +21,6 @@ https://maruthi-kj-portfolio.netlify.app/
 
 LinkedIn Link: 
 https://www.linkedin.com/in/maruthi-kj/
+
+Git-Profile:
+https://github.com/Maruthi2896
