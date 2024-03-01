@@ -1,7 +1,7 @@
 Trima E-commerse website
 https://trima-onlineshop.netlify.app/
 
-UserAuthentication:
+User_Authentication:
 https://user-authorization.netlify.app/
 
 Business profile website model Link
