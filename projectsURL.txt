@@ -1,6 +1,9 @@
 Trima E-commerse website
 https://trima-onlineshop.netlify.app/
 
+UserAuthentication:
+https://user-authorization.netlify.app/
+
 Business profile website model Link
 https://react-business-website-plan-maruthikj.netlify.app/
 
@@ -13,17 +16,4 @@ https://maruthu-kj-crud-application.netlify.app/
 school management Project Deployed LINK
 https://school-management-dashboard28.netlify.app/
 
-Resume Link: cts and cps
-https://drive.google.com/file/d/1D5vRjvNIv-w0dDA2Llzmsb-WWqGItudg/view?usp=drive_link
 
-Resume Link: Cts only
-https://drive.google.com/file/d/14p_CSllaqoD1DlbKkBFLnaZFEjNMfZ2i/view?usp=sharing
-
-Portfolio website:
-https://maruthi-kj-portfolio.netlify.app/
-
-LinkedIn Link: 
-https://www.linkedin.com/in/maruthi-kj/
-
-Git-Profile:
-https://github.com/Maruthi2896
